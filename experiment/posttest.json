@@ -23,17 +23,7 @@
       "correctAnswer": "d",
       "difficulty": "beginner"
     },
-    {
-      "question": "A control system is operated with a parabolic input as shown below <br/> <img src='images/q3.png'/><br/>If K<sub>a</sub> is static error constant of the system, then its dynamic error constant K<sub>2</sub> is",
-      "answers": {
-        "a": "0.01",
-        "b": "0.05",
-        "c": "0.06",
-        "d": "0.02"
-      },
-      "correctAnswer": "d",
-      "difficulty": "beginner"
-    },
+    
     {
       "question": "Consider that the loop transfer function of a closed-loop system is <br/> <img src='images/q1.png'/><br/>Assume k =1, T<sub>d</sub> = 0 and find the gain crossover frequency",
       "answers": {
